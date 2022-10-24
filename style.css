@@ -1,6 +1,8 @@
 body{
-    font-style: inherit; font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
+    padding-bottom: 0%;
+    margin: 0%;
 }
 #biotecnologia{
     height: 400px;
